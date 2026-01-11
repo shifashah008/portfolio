@@ -1,0 +1,27 @@
+body{
+    background-image:url('background2.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    align-content: center;
+}
+p{
+    font-size: 25px;
+    border-width: 5px;
+    text-align: left;
+    margin-left: 50px;
+    margin-right: 50px;
+    
+
+
+}
+h1{
+   font-size: 50px;
+   margin-left: 785px;
+}
+img{
+    margin-right: 200px; 
+    float: left;
+    margin-left: 50px;
+}
